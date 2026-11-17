@@ -1,3 +1,4 @@
+# Modularity on the Karate Club Graph
 # Spectral Community Detection in Zachary's Karate Club
 
 DSC 212 (Graph Theory) – Research Assignment By Shubhra Narain, IMS25197
